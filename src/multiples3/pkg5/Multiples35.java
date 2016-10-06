@@ -24,16 +24,6 @@ public class Multiples35 {
         int i,limit,sum;
          sum = 0;
          limit = 1000;
-        //BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        //Project Euler is 1000 but can enter own for other uses
-        //System.out.print("Enter the max num: " );
-                //String input = br.readLine();
-        /*try{
-            int num = Integer.parseInt(br.readLine());
-            result = num;
-        }catch(NumberFormatException nfe){
-            System.err.println("Invalid Format!");
-        } */
         
         // Initiate while loop to catch all integers
         for(i = 0;i < limit ;i++){//result;i++){
